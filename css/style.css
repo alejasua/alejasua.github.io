@@ -913,21 +913,7 @@ textarea:focus {
 	.services-style-one .content-column .content-box {
 		padding: 200px 20px 100px 20px;
 	}
-}
 
-/*Media*/
-@media screen and (min-width: 521px) and (max-width: 980px) {
-	#service {
-		margin-top: 50px;
-	}
-
-	#service .service-heading h2 {
-		font-size: 30px;
-	}
-
-	.services-style-one .content-column .content-box {
-		padding: 200px 20px 100px 20px;
-	}
 }
 
 /*Portfolio*/
